@@ -7,6 +7,10 @@
 ## Documentação do AdonisJS
 
 <p> https://adonisjs.com/ </p>
+
+<img src="./assets/beekeeper.png">
+<img src="./assets/get.png">
+<img src="./assets/post.png">
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
 
 <strong> Feito por Gabriel Muller </strong>
